@@ -1,4 +1,4 @@
-# mark_six
+# hkjc proj
 
 #This is a project that is used to automate the trend of Mark Six.
 
