@@ -6,7 +6,7 @@
 #Python(django) will be used.
 
 
-v1.0
+v0.1
 #Create python script , it will crawl the record of hkjc (finished 20/3/2023)
 #Build SQL server (MS SQL or My SQL) 
 #Creata python script , it will update the record in sql server
